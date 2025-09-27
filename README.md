@@ -5,7 +5,7 @@ Full-Stack Developer | AI & Blockchain Enthusiast | Forking open-source for fun
 - 🔭 I'm interested in **web dev, blockchain (Cardano), and automation tools**
 - 🌱 I'm currently learning **Rust and machine learning**
 - 👯 I'm looking to collaborate on **Node.js projects or Cardano integrations**
-- 📫 Reach me: **ivan@example.com** (or DM on GitHub)
+- 📫 Reach me: **ivan09069@gmail.com** (or DM on GitHub)
 
 ## Skills
 
