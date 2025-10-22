@@ -5,7 +5,7 @@ Full-Stack Developer | AI & Blockchain Enthusiast | Forking open-source for fun
 - 🔭 I'm interested in **web dev, blockchain (Cardano), and automation tools**
 - 🌱 I'm currently learning **Rust and machine learning**
 - 👯 I'm looking to collaborate on **Node.js projects or Cardano integrations**
-- 📫 Reach me: **ivan09069@gmail.com** (or DM on GitHub)
+- 📫 Reach me: **gitdev0906.gmail.com** (or DM on GitHub)
 
 ## Skills
 
@@ -43,12 +43,3 @@ Leave a note! Create a new issue titled "Guestbook: [Your message]" (e.g., "Gues
 
 <!-- GUESTBOOK:END -->
 
----
-
-[![ivan0969's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan0969&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan0969&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivan0969&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-![Visitors](https://visitor-badge.laobai.net/badge?page_id=ivan0969.ivan0969)
-
-![Snake animation](https://github.com/ivan0969/ivan0969/blob/output/github-contribution-grid-snake.svg)
