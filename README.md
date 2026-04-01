@@ -6,9 +6,10 @@ Independent developer building at the intersection of on-chain analytics, automa
 
 ## What I'm Building
 
+🔍 **[beacon-forensics](https://github.com/ivan09069/beacon-forensics)** — Maps Ethereum staking operators from a single withdrawal address. [788 validators clustered in case study](https://gist.github.com/ivan09069/59aafca2809a6de2b89663d29ba526c7).  
+✅ **[eth-deployment-verify](https://github.com/ivan09069/eth-deployment-verify)** — GitHub Action that verifies deployed smart contract bytecode matches compiled source  
 🤖 **[SwarmSentinel](https://github.com/ivan09069/SwarmSentinel-v3)** — Mean-reversion trading bot (RSI/EMA50, BTC/ETH/SOL/XRP)  
 🔗 **[EchoForge](https://github.com/ivan09069/EchoForge)** — Whale alert dashboard + MCP-integrated command center  
-🛠️ **[GitHub Autopilot](https://github.com/ivan09069/gh-autopilot)** — AI-powered repo maintenance with Claude PR risk scoring  
 ⛓️ **[Lodestar Fork](https://github.com/ivan09069/lodestar)** — Ethereum consensus client — GLOAS block import pipeline (PR #8940)
 
 ## Tech Stack
@@ -24,7 +25,7 @@ Independent developer building at the intersection of on-chain analytics, automa
 
 ## Focus Areas
 
-- **Blockchain Forensics** — Validator cohort attribution, MEV flow analysis, multi-chain wallet recovery
+- **Blockchain Forensics** — Validator cluster attribution, Safe-based operator mapping, depositor tracing via BigQuery ([case study](https://gist.github.com/ivan09069/59aafca2809a6de2b89663d29ba526c7))
 - **Trading Infrastructure** — Mean-reversion bots, OU pair scanners, DeFi arbitrage on Base
 - **AI Agent Systems** — MCP protocol integration, Claude-powered decision engines, autonomous repo maintenance
 - **Ethereum Protocol** — Consensus client development (Lodestar/GLOAS), beacon chain data via BigQuery
