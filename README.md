@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sheet.png" alt="Ivan Torres, EchoForge Studios, Texas. Verification, validator forensics, and local portfolio software. Hardhat V3, EchoForge, Quantum Bench, Beacon Forensics, Deployment Verify, Issue Whisperer, Repository Autopilot, and a migration review." width="100%">
+  <img src="sheet.png" alt="EchoForge Studios. Ivan Torres. Neon cyan and magenta frame. Hardhat V3, EchoForge, Quantum Bench, Beacon Forensics, Deployment Verify, Issue Whisperer, Repository Autopilot, Migration Review." width="100%">
 </p>
 
 <p align="center">
